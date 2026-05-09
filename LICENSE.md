@@ -1,4 +1,4 @@
-
+Enhance GarageBand for macOS with ultimate GarageBand for macOS LUT | lower-thirds + batch-rendering, the #1 lut. Includes lower-thirds and batch-rendering for a smoother and more
 
 
 
